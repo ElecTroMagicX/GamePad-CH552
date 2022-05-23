@@ -1,0 +1,7 @@
+*.lst
+*.LST
+*.m51
+*.INC
+/Objects
+/.vscode
+*.bak
